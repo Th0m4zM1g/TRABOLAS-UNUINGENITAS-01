@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ff00ea; /* Escolha sua cor */
+    text-align: center;
+    
+    }
+    header {
+    background-color: #00a76f; /* Escolha sua cor */
+    color: rgb(102, 37, 0);
+    padding: 20px;
+    }
+    button {
+    font-size: 16px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    }
